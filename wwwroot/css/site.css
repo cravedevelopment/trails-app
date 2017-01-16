@@ -36,3 +36,9 @@ textarea {
     display: none
   }
 }
+
+.jumbotron{
+    background-image: url("../images/531477_4975045261651_1014897448_n.jpg");
+    background-size:cover;
+    color: #fff;
+}
